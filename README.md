@@ -1,2 +1,1 @@
-# Learning-Git
-Learning the version control
+Learning-git's readme
